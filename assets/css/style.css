@@ -6,11 +6,24 @@ body {
   width: 100%;
 }
 
+.my-header-class {
+  border-bottom: gray 3px solid
+}
 
 .my-index-class, .row  {
   border: 2px solid lightblue;
 }
 
 .my-footer-class {
-  border: 2px solid red;
+  background: darkgray;
+  border-top: 7px solid rgb(17,161,161); 
+  height: 60px;
+  margin-left: 10%
+
+}
+
+.my-nav-sep {
+  color: lightgray;
+  font-size: 16px;
+  color
 }
