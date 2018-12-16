@@ -2,28 +2,28 @@ body {
   background: url(../images/fabric_1.png)
 }
 
-.p-2 {
-  width: 100%;
-}
-
 .my-header-class {
   border-bottom: gray 3px solid
 }
 
-.my-index-class, .row  {
-  border: 2px solid lightblue;
+.my-nav-sep {
+  color: lightgray;
+  font-size: 16px;
+}
+
+.my-index-class {
+  border: 2px gray solid;
+  background: white;
 }
 
 .my-footer-class {
   background: darkgray;
   border-top: 7px solid rgb(17,161,161); 
   height: 60px;
-  margin-left: 10%
 
 }
 
-.my-nav-sep {
-  color: lightgray;
-  font-size: 16px;
-  color
+.blurb1 {
+  letter-spacing: 2px;
+  line-height: 1.5; 
 }
