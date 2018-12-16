@@ -3,7 +3,9 @@ body {
 }
 
 .my-header-class {
-  border-bottom: gray 3px solid
+  border-bottom: gray 3px solid;
+  background: white;
+  height: 60px;
 }
 
 .my-nav-sep {
